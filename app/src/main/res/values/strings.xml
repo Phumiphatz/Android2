@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="Button_one">ว่าง</string>
+    <string name="Button_two">ว่าง</string>
+    <string name="Button_three">ว่าง</string>
+    <string name="Button_update">update</string>
+    <string name="Button_delete">delete</string>
+    <string name="register_is">ทะเบียนรถ</string>
+    <string name="barn_is">ยี่ห้อ</string>
+    <string name="name_is">คนขับ</string>
+    <string name="parking_text">ที่จอดรถ</string>
+    <string name="passwordText"/>
+    <string name="buttonSubmit">Login</string>
+    <string name="usernameEdit"/>
+    <string name="passwordEdit"/>
+    <string name="buttonLogin">Login</string>
+    <string name="LoginText"/>
+    <string name="textLogin">Login</string>
+    <string name="text_login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username_EditText"/>
+    <string name="password_EditText"/>
+    <string name="button_click">Login</string>
+    <string name="about">About</string>
+    <string name="text_about">Profile</string>
+    <string name="name_text">Phumiphat Wongchuea</string>
+</resources>
